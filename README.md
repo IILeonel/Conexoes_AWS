@@ -1,1 +1,0 @@
-# Conexoes_AWS-conexao_DynamoDB
